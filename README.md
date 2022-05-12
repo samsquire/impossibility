@@ -2,7 +2,7 @@
 
 Society is kind of impossible
 
-Everyone in a society needs food, shelter and work.
+Everyone in a society needs food, shelter and money to buy these things.
 
 Each person needs to earn enough to pay for food, shelter and bills such as energy
 
