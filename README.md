@@ -32,3 +32,4 @@ If you want to buy a product or service, you must work in excess of that product
 
 So everyone is working for money, their work is valued at an amount. The work must afford supplying themselves and everyone else of products and services that they each need.
 
+Obviously there isn't enough work done to produce money so people remain poor. The value of people's work is low.
