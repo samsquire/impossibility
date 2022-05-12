@@ -10,7 +10,7 @@ Every product that that person buys must also fund the same for all the workers 
 
 Surely this is an absurdity. Even if people earn different amounts and products cost different prices - one person can at most support themselves and a fraction or number of additional people with their purchases of the above needs.
 
-Buying a tin of food or service must pay for all the things that all the people who produce the baked beans need.
+Buying a tin of food or service must pay for all the things that all the people who produce the product or service need.
 
 If the employees of the company that produces food also need to buy products that they produce, they do not get it for free.
 
