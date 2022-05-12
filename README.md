@@ -8,7 +8,7 @@ Each person needs to earn enough to pay for food, shelter and bills such as ener
 
 Every product that that person buys must also fund the same for all the workers and owners of the manufacturers of that product.
 
-Surely this is an absurdity. Even if people earn different amounts and products cost different prices - one person can at most support themselves and a fraction or number of additional people with their purchases above needs.
+Surely this is an absurdity. Even if people earn different amounts and products cost different prices - one person can at most support themselves and a fraction or number of additional people with their purchases of the above needs.
 
 Buying a tin of food or service must pay for all the things that all the people who produce the baked beans need.
 
