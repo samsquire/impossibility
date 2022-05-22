@@ -1,4 +1,4 @@
-# impossibility
+# The Paradox of the Economy
 
 Society is kind of impossible
 
@@ -6,7 +6,9 @@ Everyone in a society needs food, shelter and money to buy these things.
 
 Each person needs to earn enough to pay for food, shelter and bills such as energy
 
-Every product that that person buys must also fund the same for all the workers and owners of the manufacturers of that product.
+Every product that that person buys must also fund the same for all the workers and owners of the manufacturers of that product or service.
+
+The relationship is recursive. How can there not be poor people? Everyone has to provide for everyone else in addition to themselves 
 
 Surely this is an absurdity. Even if people earn different amounts and products cost different prices - one person can at most support themselves and a fraction or number of additional people with their purchases of the above needs.
 
