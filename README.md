@@ -39,3 +39,20 @@ So everyone is working for money, their work is valued at an amount. The work mu
 Obviously there isn't enough work done to produce money so people remain poor. The value of people's work is low.
 
 This is therefore the paradox of the economy. There is guaranteed to be poor people and everyone is on a treadmill of work to pay for themselves and the costs of everyone else.
+
+# math
+
+Let there be a population of N or 10 people. And let the costs of each person be C which is also 10
+
+If you have a room of people and each needs to exchange with every other in the room this is N × (n - 1) / 2. Or 10×(10-1)/2 or 45.
+
+The balance of trade between those 45 interactions has to pay 100 to cover everyone's costs.
+
+So each trade has to produce in at least 2.22~. Each person depends on everyone else to get 2.22. so each person needs to produce 2.22 × 10 which is more than the costs.
+
+Of course in the real world each person has a different set of costs and a distribution.
+
+Each person depends on everyone else needs to fund themselves for their costs. This is 10!
+
+So total costs is N × C Or 100
+
