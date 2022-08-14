@@ -48,7 +48,7 @@ If you have a room of people and each needs to exchange with every other in the 
 
 The balance of trade between those 45 interactions has to pay 100 to cover everyone's costs.
 
-So each trade has to produce in at least 2.22~. Each person depends on everyone else to get 2.22. so each person needs to produce 2.22 × 10 which is more than the costs.
+So each trade has to produce 100÷45 or at least 2.22~. Each person depends on everyone else to get 2.22. so each person needs to produce 2.22 + 10 or 2.22 + 10 × 10 which is more than the costs of 100.
 
 Of course in the real world each person has a different set of costs and a distribution.
 
